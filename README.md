@@ -18,10 +18,6 @@
 ## Requirements
 You need to have PHP version **7.4** or above. Node.js version **12.0** or above.
 
-## Demo
-https://yoursurveys.xyz
-
-
 ## Installation
 
 #### Backend
